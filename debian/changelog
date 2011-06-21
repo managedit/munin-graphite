@@ -1,0 +1,5 @@
+munin-graphite (0.1) natty; urgency=low
+
+  * Initial Release.
+
+ -- Kiall Mac Innes <kiall@managedit.ie>  Tue, 21 Jun 2011 14:33:14 +0100

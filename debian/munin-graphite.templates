@@ -1,0 +1,9 @@
+Template: munin-graphite/graphite_host
+Type: string
+Default: 127.0.0.1
+Description: Graphite server to send stats to
+
+Template: munin-graphite/munin_host
+Type: string
+Default: 127.0.0.1
+Description: Munin node to gather stats from

@@ -1,0 +1,3 @@
+# Additional options that are passed to the daemon.
+GRAPHITE_HOST="127.0.0.1"
+MUNIN_HOST="127.0.0.2"
